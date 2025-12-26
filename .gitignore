@@ -1,0 +1,82 @@
+# Source data directories
+source_data/
+source_data_*/
+data/
+data_*/
+
+# Output directories
+output/
+output_*/
+reports/
+reports_*/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Test directories
+test_data/
+test_output/
+temp/
+tmp/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Python (in case you use Python scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Generated documentation (keep source docs)
+# docs/generated/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Build artifacts
+dist/
+build/
+

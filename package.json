@@ -1,0 +1,24 @@
+{
+  "name": "student-attendance-calculator",
+  "version": "1.0.0",
+  "description": "A Node.js CLI tool that analyzes student attendance data and generates interactive HTML reports",
+  "main": "calculate-attendance.js",
+  "scripts": {
+    "start": "node calculate-attendance.js",
+    "calculate": "node calculate-attendance.js"
+  },
+  "keywords": [
+    "attendance",
+    "education",
+    "student",
+    "analytics",
+    "reporting",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
